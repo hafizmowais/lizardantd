@@ -1,6 +1,6 @@
 {
   "name": "lizardantdesign",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lizard Global AntDesign Components",
   "main": "build/index.js",
   "scripts": {
